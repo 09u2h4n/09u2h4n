@@ -14,11 +14,16 @@ Mechanical Engineering Student
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ## 💻 About Me
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2VlbTZ2Ym9ybmcxMnNsdTY0YWc5ZzQ3cDV5aXhuY2w5c3E5dDhjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pLSDTaZidXyQokFtNW/giphy.gif"/>
+
+</div>
+
+<div align="left">
+
 
 ```python
 class Oguzhan:
@@ -58,15 +63,7 @@ class Oguzhan:
         return "Build. Simulate. Improve."
 ```
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2VlbTZ2Ym9ybmcxMnNsdTY0YWc5ZzQ3cDV5aXhuY2w5c3E5dDhjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pLSDTaZidXyQokFtNW/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
